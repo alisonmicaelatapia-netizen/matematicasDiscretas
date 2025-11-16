@@ -6,14 +6,14 @@
   <summary>🧩 <strong>Unidad 1</strong></summary>
 
   #### Aprendizaje en contacto con el docente (ACD)
-  - [📊 ACD1: Lógica proposicional, conectores y tablas de verdad ](/unidad1/contenidosUnidad/algoritmos.md)
-  - [💻 ACD2: Implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia)](/unidad1/contenidosUnidad/programacionBloques.md)
+  - [🧠 ACD1: Lógica proposicional, conectores y tablas de verdad ](/unidad1/contenidosUnidad/algoritmos.md)
+  - [📘 ACD2: Implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia)](/unidad1/contenidosUnidad/programacionBloques.md)
     
   #### Aprendizaje práctico experimental (APE)
-  - [📊 APE1: Resolución de ejercicios](/unidad1/contenidosUnidad/algoritmos.md)
+  - [🧪 APE1: Resolución de ejercicios](/unidad1/contenidosUnidad/algoritmos.md)
 
   #### Aprendizaje autónomo (AA)
-  - [🧾 AA1. Lectura y ejercicios](/unidad1/tareas/HerramientasDigitales.pdf)
+  - [📚 AA1. Lectura y ejercicios](/unidad1/tareas/HerramientasDigitales.pdf)
 
 </details>
 
