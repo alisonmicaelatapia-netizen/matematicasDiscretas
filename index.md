@@ -5,7 +5,7 @@
 ## ⚡ Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables  
 
 ### 💻 Carrera: **Computación**  
-📚 Asignatura: **Teoría de la Programación**  
+📚 Asignatura: **Matemáticas Discretas**  
 🎓 Nivel: **Primer ciclo**  
 🗓️ Período académico: **Septiembre 2025 – Febrero 2026**  
 
