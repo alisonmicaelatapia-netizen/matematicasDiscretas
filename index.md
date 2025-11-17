@@ -10,7 +10,7 @@
   - [📘 ACD2: Implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia)](/documentos/LeyesProposiciones.pdf)
     
   #### Aprendizaje práctico experimental (APE)
-  - [🧪 APE1: Resolución de ejercicios](/unidad1/contenidosUnidad/algoritmos.md)
+  - [🧪 APE1: Resolución de ejercicios](/documentos/ResolucionEjercicios.pdf)
 
   #### Aprendizaje autónomo (AA)
   - [📚 AA1. Lectura y ejercicios](/unidad1/tareas/HerramientasDigitales.pdf)
