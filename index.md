@@ -13,7 +13,7 @@
   - [🧪 APE1: Resolución de ejercicios](/documentos/ResolucionEjercicios.pdf)
 
   #### Aprendizaje autónomo (AA)
-  - [📚 AA1. Lectura y ejercicios](/unidad1/tareas/HerramientasDigitales.pdf)
+  - [📚 AA1. Lectura y ejercicios](/documentos/matematicasTarea.pdf)
 
 </details>
 
