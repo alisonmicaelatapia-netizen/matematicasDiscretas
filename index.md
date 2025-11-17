@@ -1,8 +1,6 @@
 # 📘 Índice General
 
-> Navega fácilmente por los contenidos del repositorio 👇
-
-🧭 *Haz clic en las flechas para desplegar el contenido de cada unidad.*
+> 🧭 *Haz clic en las flechas para desplegar el contenido de cada unidad.*
 
 <details>
   <summary>🧩 <strong>Unidad 1</strong></summary>
