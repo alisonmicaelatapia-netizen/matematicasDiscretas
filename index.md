@@ -7,7 +7,7 @@
 
   #### Aprendizaje en contacto con el docente (ACD)
   - [🧠 ACD1: Lógica proposicional, conectores y tablas de verdad ](/unidad1/contenidosUnidad/algoritmos.md)
-  - [📘 ACD2: Implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia)](/unidad1/contenidosUnidad/programacionBloques.md)
+  - [📘 ACD2: Implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia)](/documentos/LeyesProposiciones.pdf)
     
   #### Aprendizaje práctico experimental (APE)
   - [🧪 APE1: Resolución de ejercicios](/unidad1/contenidosUnidad/algoritmos.md)
